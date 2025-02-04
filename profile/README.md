@@ -1,7 +1,7 @@
-# 👥 MidPoint : 우리 어디서 만날까? 👥
-![Frame (3)](https://github.com/user-attachments/assets/30fb7aa8-e5f3-426f-b9f6-da8269d82ce2)
+# 📍MidPoint : 우리 어디서 만날까?📍
+![Group 82](https://github.com/user-attachments/assets/071a57da-083a-46c5-8d43-c7b167dacd5a)
 
-> 2024 1학기 숙명 중앙 동아리 SOLUX Solucitation(솔룩션) 팀
+> 2024 1학기 숙명 중앙 동아리 SOLUX Solucitation(솔룩션) 팀 </br>
 > 기간: 24.3.22 ~ 24.8.5
 
 </br>
@@ -71,6 +71,7 @@ MidPoint : 우리 어디서 만날까?
 ## 📷 𝗦𝗰𝗿𝗲𝗲𝗻𝘀𝗵𝗼𝘁𝘀
 | 번호 | 이미지 | 설명 |
 |------|--------|------|
+| 0    | ![image](https://github.com/user-attachments/assets/eac45db3-2532-4fa5-8cea-ee6f070f7391) | 첫 페이지 |
 | 1    | ![image](https://github.com/user-attachments/assets/a1f71d48-0d95-4d74-9b97-2f738f593c79) | 로그인 페이지 |
 | 1.1  | ![image](https://github.com/user-attachments/assets/9579b6fb-b4dc-44f8-8ba2-9fccbb07d460) | 카카오 로그인 페이지 |
 | 1.2  | ![image](https://github.com/user-attachments/assets/0f255be6-da5f-4d21-aade-e27637b04a02) | 사용자는 '아이디' 칸에 아이디 또는 이메일로 입력합니다. 비밀번호가 일치하지 않으면 '아이디 또는 비밀번호가 일치하지 않습니다' 에러 문구가 뜹니다. |
